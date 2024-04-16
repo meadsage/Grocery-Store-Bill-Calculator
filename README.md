@@ -28,3 +28,8 @@ Eg. gcc customer_id.c -o customer_id
 Customer ID: Checks for duplicate entries, handles dynamic data.
 Bill Calculator: Dynamic stock updates, discount calculations.
 Stock: View and manage stock details dynamically.
+```
+### Compilation
+Customer ID: Checks for duplicate entries, handles dynamic data.
+Bill Calculator: Dynamic stock updates, discount calculations.
+Stock: View and manage stock details dynamically
