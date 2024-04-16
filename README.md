@@ -25,7 +25,7 @@ Eg. gcc customer_id.c -o customer_id
     gcc stock.c -o stock
 
 ```
-### Compilation
+### Features
 1. Customer ID: Checks for duplicate entries, handles dynamic data.
 2. Bill Calculator: Dynamic stock updates, discount calculations.
 3. Stock: View and manage stock details dynamically.
